@@ -12,7 +12,7 @@ spec:
 
   # these are the steps which are rendered in the frontend with the form input
   parameters:
-    - title: Fill in some steps
+    - title: Fill in some steps 2
       required:
         - name
       properties:
